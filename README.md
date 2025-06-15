@@ -9,9 +9,9 @@
 
 - 🧠 I’m passionate about **building scalable backend systems**
 - 🚀 Currently working with **Node.js + Express + TypeScript**
-- 🗃️ Learning MongoDB, PostgreSQL, testing, and clean architecture
+- 🗃️ Experience with **MySQL**, learning more about **databases & API security**
 - 📚 Always curious to learn new technologies & tools
-- 📫 Contact me: ziad.ahmed@example.com | [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📫 Contact me: ziad166197@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziadd-ahmedd)
 
 ---
 
@@ -20,8 +20,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,4 +39,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziad144&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad144&layout
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad144&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+<p>
+  <a href="mailto:ziad166197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ziadd-ahmedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ziad144"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
