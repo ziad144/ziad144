@@ -11,7 +11,6 @@
 - 🚀 Currently working with **Node.js + Express + TypeScript**
 - 🗃️ Experience with **MySQL**, learning more about **databases & API security**
 - 📚 Always curious to learn new technologies & tools
-- 📫 Contact me: ziad166197@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziadd-ahmedd)
 
 ---
 
@@ -23,8 +22,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ---
 
 ### 🚀 Featured Projects:
