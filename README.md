@@ -24,11 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 🚀 Featured Projects:
-
-- 🔐 [Authentication API (Node.js + TS)](https://github.com/ziad144/project-auth)
-- 🚗 [Car Management System](https://github.com/ziad144/car-api)
-- 📘 [Student Course Manager](https://github.com/ziad144/course-app)
 
 ---
 
